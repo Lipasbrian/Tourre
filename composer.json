@@ -3,7 +3,10 @@
     "name": "tourre/tourre",
     "type": "project",
     "description": "Tours Booking Platform - A simple tours booking system built with Laravel.",
-    "keywords": ["laravel", "framework"],
+    "keywords": [
+        "laravel",
+        "framework"
+    ],
     "license": "MIT",
     "require": {
         "php": "^8.3",
